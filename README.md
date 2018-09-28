@@ -26,3 +26,4 @@ Reading Group @ DMG
 # Paper List
 
 - [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
+- [Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning](https://arxiv.org/pdf/1808.03578.pdf)
