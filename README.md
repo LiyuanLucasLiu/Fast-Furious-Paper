@@ -25,3 +25,4 @@ Reading Group @ DMG
 
 # Paper List
 
+- [A Stable and Effective Learning Strategy for Trainable Greedy Decoding](http://arxiv.org/abs/1804.07915)
