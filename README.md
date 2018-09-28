@@ -25,3 +25,4 @@ Reading Group @ DMG
 
 # Paper List
 
+- [Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?](http://dx.doi.org/10.1101/407007)
