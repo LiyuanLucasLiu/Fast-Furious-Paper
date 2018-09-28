@@ -25,3 +25,4 @@ Reading Group @ DMG
 
 # Paper List
 
+- [Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings](https://arxiv.org/pdf/1805.08237.pdf)
