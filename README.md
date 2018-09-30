@@ -16,7 +16,9 @@ Reading Group @ DMG
 # Presenter List
 
 - Jiaxin Huang
+- Jingbo Shang
 - Liyuan Liu
+- Qi Zhu
 - Shi Zhi
 - Xiaotao Gu
 - Xinyang Zhang
