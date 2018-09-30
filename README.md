@@ -27,5 +27,3 @@ Reading Group @ DMG
 
 # Paper List
 
-- [The Unreasonable Effectiveness of (Zero) Initialization in Deep Residual Learning](https://openreview.net/pdf?id=H1gsz30cKX)
- 
