@@ -27,3 +27,4 @@ Reading Group @ DMG
 
 # Paper List
 
+Distilled Wasserstein Learning for Word Embedding and Topic Modeling: NIPS'18
