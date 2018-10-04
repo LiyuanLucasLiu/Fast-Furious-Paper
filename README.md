@@ -27,4 +27,4 @@ Reading Group @ DMG
 
 # Paper List
 
-Co-teaching: Robust Training Deep Neural Networks with Extremely Noisy Labels: NIPS'18
+[Co-teaching: Robust Training Deep Neural Networks with Extremely Noisy Labels](https://arxiv.org/abs/1804.06872)
