@@ -34,3 +34,4 @@ Reading Group @ DMG
 - [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
 - [Neural Cross-lingual Named Entity Recognition with Minimal Resources](https://arxiv.org/pdf/1808.09861.pdf)
 - [Multi-View Intact Space Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7072521)
+- [Co-teaching: Robust Training Deep Neural Networks with Extremely Noisy Labels](https://arxiv.org/abs/1804.06872)
