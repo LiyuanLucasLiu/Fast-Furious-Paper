@@ -30,3 +30,4 @@ Reading Group @ DMG
 
 - [name](url)
 - [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
+- [Neural Cross-lingual Named Entity Recognition with Minimal Resources](https://arxiv.org/pdf/1808.09861.pdf)
