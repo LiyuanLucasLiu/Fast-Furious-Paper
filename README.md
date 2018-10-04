@@ -27,6 +27,5 @@ Reading Group @ DMG
 - Zoey Li
 
 # Paper List
-
-- [name](url)
 - [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
+- [Multi-View Intact Space Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7072521)
