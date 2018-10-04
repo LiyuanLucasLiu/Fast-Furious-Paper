@@ -9,17 +9,20 @@ Reading Group @ DMG
 - TIme & Location: Wed @ SC 2124 (or 2102 if occupied).
 
 ## How to add a paper?
-- Modify this readme file directly, but instead of commit directly to the `master` branch, please create a new branch and start a pull request (like a proposal).
-- Everyone can only submit pull requests or merge pull request *from others* (every proposal needs a second).
+- Modify this readme file, but instead of committing directly to the `master` branch, please create a new branch and start a pull request (like a proposal).
+- Everyone can only submit pull requests or merge pull requests *from others* (every proposal needs a second).
 - The order of presentations would be decided in the alphabet order (of presenters).
 
 # Presenter List
 
 - Jiaxin Huang
+- Jingbo Shang
 - Liyuan Liu
+- Qi Zhu
 - Shi Zhi
 - Xiaotao Gu
 - Xinyang Zhang
+- Yu Zhang
 - Zihan Wang
 - Zoey Li
 
@@ -28,3 +31,5 @@ Reading Group @ DMG
 - [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
 - [Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning](https://arxiv.org/pdf/1808.03578.pdf)
 - [Excitation Dropout: Encouraging Plasticity in Deep Neural Networks](https://openreview.net/pdf?id=H1xQSjCqFQ)
+- [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
+- [name](url)
