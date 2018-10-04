@@ -26,4 +26,5 @@ Reading Group @ DMG
 - Zoey Li
 
 # Paper List
-
+* [Multi-View Intact Space Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7072521)
+** A learning method for coordinating multi-view features
