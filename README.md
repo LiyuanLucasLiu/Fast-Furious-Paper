@@ -27,4 +27,4 @@ Reading Group @ DMG
 
 # Paper List
 
-[Distilled Wasserstein Learning for Word Embedding and Topic Modeling](https://arxiv.org/abs/1809.04705)
+- [Distilled Wasserstein Learning for Word Embedding and Topic Modeling](https://arxiv.org/abs/1809.04705)
