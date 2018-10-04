@@ -27,4 +27,5 @@ Reading Group @ DMG
 
 # Paper List
 
+- [name](url)
 - [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
