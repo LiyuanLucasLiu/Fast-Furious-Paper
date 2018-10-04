@@ -22,6 +22,7 @@ Reading Group @ DMG
 - Shi Zhi
 - Xiaotao Gu
 - Xinyang Zhang
+- Yu Zhang
 - Zihan Wang
 - Zoey Li
 
