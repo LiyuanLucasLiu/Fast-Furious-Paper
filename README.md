@@ -36,3 +36,4 @@ Reading Group @ DMG
 - [Multi-View Intact Space Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7072521)
 - [Co-teaching: Robust Training Deep Neural Networks with Extremely Noisy Labels](https://arxiv.org/abs/1804.06872)
 - [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
+- [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
