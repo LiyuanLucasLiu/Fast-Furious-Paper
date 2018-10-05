@@ -13,6 +13,8 @@ Reading Group @ DMG
 - Everyone can only submit pull requests or merge pull requests *from others* (every proposal needs a second).
 - The order of presentations would be decided in the alphabet order (of presenters).
 
+**IMPORTANT:** you need to **approve** before merging the pull request.
+
 # Presenter List
 
 - Jiaxin Huang
