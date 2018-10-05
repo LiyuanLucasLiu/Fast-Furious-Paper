@@ -41,3 +41,5 @@ Reading Group @ DMG
 - [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
 - [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
 - [Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent](https://arxiv.org/abs/1711.07950)
+
+- [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
