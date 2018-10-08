@@ -43,3 +43,4 @@ Reading Group @ DMG
 - [Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent](https://arxiv.org/abs/1711.07950)
 
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
+- [How Powerful Are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
