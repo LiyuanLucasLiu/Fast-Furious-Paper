@@ -40,7 +40,7 @@ Reading Group @ DMG
 - [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf)
 - [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
 - [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
+- [A Neural Transition-based Model for Nested Mention Recognition](https://arxiv.org/pdf/1810.01808.pdf)
 - [Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent](https://arxiv.org/abs/1711.07950)
-
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
 - [How Powerful Are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
