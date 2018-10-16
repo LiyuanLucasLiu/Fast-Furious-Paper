@@ -42,6 +42,7 @@ Reading Group @ DMG
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
 - [How Powerful Are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
 - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/abs/1806.05662)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 
 # Presented
