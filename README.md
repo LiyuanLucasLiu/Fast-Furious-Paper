@@ -36,6 +36,7 @@ Reading Group @ DMG
 - [How Powerful Are Graph Neural Networks?](https://arxiv.org/abs/1810.00826): Jiaxin Huang
 
 - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/abs/1806.05662)
+- [Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings](https://arxiv.org/pdf/1805.08237.pdf)
 
 - [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf)
 - [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
