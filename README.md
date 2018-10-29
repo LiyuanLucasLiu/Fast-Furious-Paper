@@ -30,18 +30,12 @@ Reading Group @ DMG
 
 # Paper List
 
-- [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf): Yu Zhang
-- [Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent](https://arxiv.org/abs/1711.07950): Zoey Li
 - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf): Fang Guo
-- [How Powerful Are Graph Neural Networks?](https://arxiv.org/abs/1810.00826): Jiaxin Huang
-
-- [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/abs/1806.05662)
-
-- [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf)
+- [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/abs/1806.05662): Qi Zhu
+- [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf): Shi Zhi
+- [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/pdf/1806.03417.pdf): Xiaotao Gu
 - [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
 - [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
-- [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/pdf/1806.03417.pdf)
-
 # Presented
 
 - [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
@@ -51,3 +45,6 @@ Reading Group @ DMG
 - [Multi-View Intact Space Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7072521)
 - [Co-teaching: Robust Training Deep Neural Networks with Extremely Noisy Labels](https://arxiv.org/abs/1804.06872)
 - [MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](https://arxiv.org/abs/1712.05055)
+- [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
+- [Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent](https://arxiv.org/abs/1711.07950)
+- [How Powerful Are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
