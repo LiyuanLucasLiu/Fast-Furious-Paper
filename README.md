@@ -40,6 +40,7 @@ Reading Group @ DMG
 - [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf)
 - [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
 - [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
+- [Weakly-supervised Knowledge Graph Alignment with Adversarial Learning](https://openreview.net/forum?id=S14h9sCqYm)
 
 # Presented
 
