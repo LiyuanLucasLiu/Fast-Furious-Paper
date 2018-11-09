@@ -37,6 +37,10 @@ Reading Group @ DMG
 - [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
 - [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
 - [DARTS: Differentiable Architecture Search](https://openreview.net/forum?id=S1eYHoC5FX&noteId=rkxzCbNziX)
+- [RESIDUAL GATED GRAPH CONVNETS](https://arxiv.org/pdf/1711.07553.pdf)
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075)
+- [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743.pdf)
+- [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/pdf/1802.08773.pdf)
 
 # Presented
 
