@@ -36,6 +36,10 @@ Reading Group @ DMG
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075): Xinyang Zhang
 - [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743.pdf): Yu Zhang
 - [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/pdf/1802.08773.pdf): Jieyu Zhang
+- [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and](http://arxiv.org/abs/1602.07360)
+- [Xception: Deep Learning with Depthwise Separable Convolutions](http://arxiv.org/abs/1610.02357)
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](http://arxiv.org/abs/1704.04861)
+- [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](http://arxiv.org/abs/1707.01083)
 
 # Presented
 
