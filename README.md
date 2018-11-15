@@ -34,8 +34,8 @@ Reading Group @ DMG
 - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/abs/1806.05662): Qi Zhu
 - [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf): Shi Zhi
 - [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/pdf/1806.03417.pdf): Xiaotao Gu
-- [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
-- [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
+- [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079): Liyuan Liu
+- [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131): Liyuan Liu
 - [DARTS: Differentiable Architecture Search](https://openreview.net/forum?id=S1eYHoC5FX&noteId=rkxzCbNziX)
 - [RESIDUAL GATED GRAPH CONVNETS](https://arxiv.org/pdf/1711.07553.pdf)
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075)
