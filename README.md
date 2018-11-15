@@ -37,6 +37,7 @@ Reading Group @ DMG
 - [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743.pdf): Yu Zhang
 - [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/pdf/1802.08773.pdf): Jieyu Zhang
 - [The Unreasonable Effectiveness of (Zero) Initialization in Deep Residual Learning](https://openreview.net/pdf?id=H1gsz30cKX)
+- [Critical Learning Periods in Deep Networks](https://openreview.net/forum?id=BkeStsCcKQ)
 
 # Presented
 
