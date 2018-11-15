@@ -18,11 +18,13 @@ Reading Group @ DMG
 # Presenter List
 
 - Jiaxin Huang
+- Jieyu Zhang
 - Jingbo Shang
 - Liyuan Liu
 - Qi Zhu
 - Shi Zhi
 - Xiaotao Gu
+- Xingyu Fu
 - Xinyang Zhang
 - Yu Zhang
 - Zihan Wang
@@ -30,10 +32,10 @@ Reading Group @ DMG
 
 # Paper List
 
-- [RESIDUAL GATED GRAPH CONVNETS](https://arxiv.org/pdf/1711.07553.pdf)
-- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075)
-- [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743.pdf)
-- [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/pdf/1802.08773.pdf)
+- [RESIDUAL GATED GRAPH CONVNETS](https://arxiv.org/pdf/1711.07553.pdf): Xingyu Fu
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075): Xinyang Zhang
+- [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743.pdf): Yu Zhang
+- [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/pdf/1802.08773.pdf): Jieyu Zhang
 
 # Presented
 
