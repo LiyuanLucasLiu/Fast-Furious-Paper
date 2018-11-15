@@ -30,18 +30,29 @@ Reading Group @ DMG
 
 # Paper List
 
+- [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf): Fang Guo
+- [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/abs/1806.05662): Qi Zhu
+- [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf): Shi Zhi
+- [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/pdf/1806.03417.pdf): Xiaotao Gu
+- [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079): Liyuan Liu
+- [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131): Liyuan Liu
+- [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131): Liyuan Liu
+- [A Neural Transition-based Model for Nested Mention Recognition](https://arxiv.org/pdf/1810.01808.pdf): Liyuan Liu
+- [DARTS: Differentiable Architecture Search](https://openreview.net/forum?id=S1eYHoC5FX&noteId=rkxzCbNziX): Zihan Wang
+- [RESIDUAL GATED GRAPH CONVNETS](https://arxiv.org/pdf/1711.07553.pdf)
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075)
+- [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743.pdf)
+- [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/pdf/1802.08773.pdf)
+
+# Presented
+
 - [mixup: BEYOND EMPIRICAL RISK MINIMIZATION](https://arxiv.org/pdf/1710.09412.pdf)
 - [Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning](https://arxiv.org/pdf/1808.03578.pdf)
 - [Excitation Dropout: Encouraging Plasticity in Deep Neural Networks](https://openreview.net/pdf?id=H1xQSjCqFQ)
-- [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
 - [Neural Cross-lingual Named Entity Recognition with Minimal Resources](https://arxiv.org/pdf/1808.09861.pdf)
 - [Multi-View Intact Space Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7072521)
 - [Co-teaching: Robust Training Deep Neural Networks with Extremely Noisy Labels](https://arxiv.org/abs/1804.06872)
-- [Labeling Gaps Between Words:Recognizing Overlapping Mentions with Mention Separators](http://www.statnlp.org/research/ie/emnlp2017-mention-separators.pdf)
-- [Nested Named Entity Recognition Revisited](http://aclweb.org/anthology/N18-1079)
-- [A Neural Layered Model for Nested Named Entity Recognition](http://aclweb.org/anthology/N18-1131)
-- [A Neural Transition-based Model for Nested Mention Recognition](https://arxiv.org/pdf/1810.01808.pdf)
-- [Neural Segmental Hypergraphs for Overlapping Mention Recognition](https://arxiv.org/abs/1810.01817)
+- [MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](https://arxiv.org/abs/1712.05055)
+- [Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/pdf/1803.00885.pdf)
 - [Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent](https://arxiv.org/abs/1711.07950)
-- [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
 - [How Powerful Are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
